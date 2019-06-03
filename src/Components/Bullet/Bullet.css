@@ -1,0 +1,47 @@
+.expand-icon-container {
+  background-color: transparent;
+  left: -12px;
+  top: 8px;
+}
+
+.expand-icon,
+.bullet-icon {
+  background-color: transparent !important;
+}
+
+.expand-icon:focus,
+.bullet-icon:focus {
+  outline: 0 !important;
+}
+
+.content {
+  outline: 0px solid transparent;
+  min-height: 1em;
+  word-wrap: break-word;
+}
+
+.note-empty {
+  display: none !important;
+}
+
+.note {
+  word-wrap: break-word;
+  word-break: break-all;
+  font-size: 12px;
+  outline: 0px solid transparent;
+}
+
+.note-active {
+}
+
+.note-collapsed {
+  height: 1rem;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.border-top,
+.border-bottom {
+  border-width: 3px !important;
+}

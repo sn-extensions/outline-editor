@@ -1,0 +1,12 @@
+.header-content {
+  word-wrap: break-word;
+  font-size: 2.5rem;
+  outline: 0px solid transparent;
+  min-height: 2.5rem;
+}
+
+.header-note {
+  font-size: 1.5rem;
+  outline: 0px solid transparent;
+  min-height: 1.5rem;
+}

@@ -1,0 +1,10 @@
+.nav {
+  border-bottom: 0.5px solid darkgrey;
+}
+
+.nav-link {
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   cursor: pointer;
+}

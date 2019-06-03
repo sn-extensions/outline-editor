@@ -1,0 +1,11 @@
+@import "~sn-stylekit/dist/stylekit.css";
+
+html {
+  background-color: var(--sn-stylekit-editor-background-color);
+  font-size: var(--sn-stylekit-base-font-size);
+}
+
+body {
+  background-color: var(--sn-stylekit-editor-background-color);
+  color: var(--sn-stylekit-editor-foreground-color);
+}
